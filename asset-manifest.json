@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/maze/static/css/main.7b6b58c5.chunk.css",
+    "main.js": "/react-gh-pages/maze/static/js/main.3229b8bf.chunk.js",
+    "main.js.map": "/react-gh-pages/maze/static/js/main.3229b8bf.chunk.js.map",
+    "runtime-main.js": "/react-gh-pages/maze/static/js/runtime-main.30e63f55.js",
+    "runtime-main.js.map": "/react-gh-pages/maze/static/js/runtime-main.30e63f55.js.map",
+    "static/js/2.88b07b4d.chunk.js": "/react-gh-pages/maze/static/js/2.88b07b4d.chunk.js",
+    "static/js/2.88b07b4d.chunk.js.map": "/react-gh-pages/maze/static/js/2.88b07b4d.chunk.js.map",
+    "index.html": "/react-gh-pages/maze/index.html",
+    "precache-manifest.01ff07ff5dbd1114bf67a794b8bf8eaf.js": "/react-gh-pages/maze/precache-manifest.01ff07ff5dbd1114bf67a794b8bf8eaf.js",
+    "service-worker.js": "/react-gh-pages/maze/service-worker.js",
+    "static/css/main.7b6b58c5.chunk.css.map": "/react-gh-pages/maze/static/css/main.7b6b58c5.chunk.css.map",
+    "static/js/2.88b07b4d.chunk.js.LICENSE": "/react-gh-pages/maze/static/js/2.88b07b4d.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30e63f55.js",
+    "static/js/2.88b07b4d.chunk.js",
+    "static/css/main.7b6b58c5.chunk.css",
+    "static/js/main.3229b8bf.chunk.js"
+  ]
+}
